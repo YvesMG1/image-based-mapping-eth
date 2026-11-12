@@ -1,2 +1,5 @@
 .DS_Store
 .gitattributes
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
